@@ -56,6 +56,8 @@ const Site = () => {
 
         { label: 'Asset Status', key: 'Asset Status' },
 
+        { label: 'Asset Image', key: 'Asset Image' },
+
         { label: 'Asset Timestamp', key: 'Asset Timestamp' },
 
         { label: 'Tag Number', key: 'Tag Number' },
